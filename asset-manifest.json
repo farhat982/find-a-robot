@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/find-a-robot/static/css/main.d79bfcb6.css",
+    "main.js": "/find-a-robot/static/js/main.c9bdff04.js",
+    "static/js/787.32032a02.chunk.js": "/find-a-robot/static/js/787.32032a02.chunk.js",
+    "static/media/bg-img.jpeg": "/find-a-robot/static/media/bg-img.0f98e1c8104585723fcb.jpeg",
+    "index.html": "/find-a-robot/index.html",
+    "main.d79bfcb6.css.map": "/find-a-robot/static/css/main.d79bfcb6.css.map",
+    "main.c9bdff04.js.map": "/find-a-robot/static/js/main.c9bdff04.js.map",
+    "787.32032a02.chunk.js.map": "/find-a-robot/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d79bfcb6.css",
+    "static/js/main.c9bdff04.js"
+  ]
+}
